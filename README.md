@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://gist.githubusercontent.com/devmirilo/e05a293dacfe4990d718e369ebbfa2f0/raw/85f95740713e2720139abad150c727f058860d11/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Murilo Carneiro</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmirilo&color=yellow" alt="Profile views" /> </p>
 
 - 📚 I'm currently studying computer science on Cesupa - Centro Universitário do Pará
 
